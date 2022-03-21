@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyIntentApp2</string>
+    <string name="move_activity">PINDAH HALAMAN</string>
+    <string name="halaman_move_activity">HALAMAN ACTIVITY MOVE</string>
+    <string name="move_with_data">PINDAH DENGAN DATA</string>
+    <string name="data_received">DATA DITERIMA</string>
+    <string name="move_with_object">PINDAH DENGAN OBJECT</string>
+    <string name="object_received">OBJECT DITERIMA</string>
+</resources>
